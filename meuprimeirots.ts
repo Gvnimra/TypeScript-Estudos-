@@ -1,2 +1,2 @@
-const a = ('Meu primeiro ts');
+const a : string = 'Hello World!';
 console.log(a);
